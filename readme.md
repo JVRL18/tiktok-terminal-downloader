@@ -1,0 +1,1 @@
+Just run > index.mjs <, and follow the steps on terminal.
